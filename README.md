@@ -7,5 +7,5 @@
 - [Group Assignments](https://github.com/Clovinson/Group-assign) 
 - [Identity Lifecycle](https://github.com/Clovinson/identify-lifecycle) 
 - [Audit Logs](https://github.com/Clovinson/audit-logs) 
-- [Sign-In Logs]() 
+- [Sign-In Logs](https://github.com/Clovinson/sign-in-logs) 
 - [Authentication]() 

@@ -6,6 +6,6 @@
 - [Role Assignments](https://github.com/Clovinson/role-assignments-repository)
 - [Group Assignments](https://github.com/Clovinson/Group-assign) 
 - [Identity Lifecycle](https://github.com/Clovinson/identify-lifecycle) 
-- [Audit Logs]() 
+- [Audit Logs](https://github.com/Clovinson/audit-logs) 
 - [Sign-In Logs]() 
 - [Authentication]() 

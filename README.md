@@ -3,7 +3,7 @@
 - <b>Microsoft Azure Entra ID</b> 
 - [Creating User's in Entra ID](https://github.com/Clovinson/User-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/Clovinson/p2-licensing) 
-- [Role Assignments]()
+- [Role Assignments](https://github.com/Clovinson/role-assignments-repository)
 - [Group Assignments]() 
 - [Identity Lifecycle]() 
 - [Audit Logs]() 

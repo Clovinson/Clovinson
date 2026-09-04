@@ -16,7 +16,7 @@
 - [Troubleshooting Network Connectivity](https://github.com/Clovinson/Troubleshooting-Network-Connectivity) 
 - [Managing Windows Updates](https://github.com/Clovinson/Managing-Windows-Updates)
 - [Software Installation](https://github.com/Clovinson/Software-Installation)
-- [Print Queue]()
+- [Print Queue](https://github.com/Clovinson/Print-Queue)
 - [Credential Manager and Cache]()
 - [PowerShell]()
 -

@@ -13,7 +13,7 @@
 - <b>Deployment, Networking, Troubleshooting</b> -
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Clovinson/Creating-Resource-Group)
 - [Creating and Managing Local Users](https://github.com/Clovinson/Creating-and-Managing-Local-Users) 
-- [Troubleshooting Network Connectivity]() 
+- [Troubleshooting Network Connectivity](https://github.com/Clovinson/Troubleshooting-Network-Connectivity) 
 - [Managing Windows Updates]()
 - [Software Installation]()
 - [Print Queue]()

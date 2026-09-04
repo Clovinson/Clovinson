@@ -11,7 +11,7 @@
 - [Authentication](https://github.com/Clovinson/authentication) 
 
 - <b>Deployment, Networking, Troubleshooting</b> -
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Clovinson/Creating-Resource-Group)
 - [Creating and Managing Local Users]() 
 - [Troubleshooting Network Connectivity]() 
 - [Managing Windows Updates]()

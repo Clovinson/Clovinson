@@ -14,7 +14,7 @@
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Clovinson/Creating-Resource-Group)
 - [Creating and Managing Local Users](https://github.com/Clovinson/Creating-and-Managing-Local-Users) 
 - [Troubleshooting Network Connectivity](https://github.com/Clovinson/Troubleshooting-Network-Connectivity) 
-- [Managing Windows Updates]()
+- [Managing Windows Updates](https://github.com/Clovinson/Managing-Windows-Updates)
 - [Software Installation]()
 - [Print Queue]()
 - [Credential Manager and Cache]()
